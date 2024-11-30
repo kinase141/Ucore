@@ -1,5 +1,5 @@
 # uCore
-> Xu S. THU CST
+> X.Si THU CST
 
 This is a course project for THU-OS.
 
