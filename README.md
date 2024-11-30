@@ -1,4 +1,5 @@
 # uCore
+> Xu S. THU CST
 
 This is a course project for THU-OS.
 
